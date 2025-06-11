@@ -11,44 +11,14 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </div>
 
-  <!-- GitHub Stats -->
-  <div class="stats my-4">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;">
-  </div>
 
   <!-- About Me -->
   <div class="about-me p-3 bg-light rounded" style="max-width: 600px; margin: 0 auto;">
     <h4>💡 About Me</h4>
-    <p>
+    <p class='w-30'>
       I'm a passionate Laravel developer with expertise in building scalable web applications. 
       I love clean code, performance optimization, and contributing to open-source projects.
     </p>
-  </div>
-
-  <!-- Projects -->
-  <div class="projects mt-4">
-    <h4>🌟 My Projects</h4>
-    <div class="row justify-content-center">
-      <div class="col-md-4 mb-3">
-        <div class="card h-100">
-          <div class="card-body">
-            <h5 class="card-title">Project 1</h5>
-            <p class="card-text">A Laravel-based eCommerce solution.</p>
-            <a href="#" class="btn btn-sm btn-primary">View Project</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 mb-3">
-        <div class="card h-100">
-          <div class="card-body">
-            <h5 class="card-title">Project 2</h5>
-            <p class="card-text">REST API with Laravel Sanctum.</p>
-            <a href="#" class="btn btn-sm btn-primary">View Project</a>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 
   <!-- Contact -->
@@ -66,5 +36,3 @@
   </div>
 </div>
 
-<!-- Bootstrap JS (GitHub won't execute this, but it's here for reference) -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
