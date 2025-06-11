@@ -26,10 +26,10 @@
     <a href="www.linkedin.com/in/mohamed-fouad-a7b940242" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/yourhandle" target="_blank">
+    <a href="https://x.com/Mohamed30378147" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-   <a href="https://facebook.com/yourprofile" target="_blank">
+   <a href="https://facebook.com/abo.fouad.712" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
   </div>
