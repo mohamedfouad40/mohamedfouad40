@@ -2,7 +2,7 @@
 
 I build scalable web applications with Laravel and modern PHP. Passionate about clean code, best practices, and efficient backend solutions.
 🔧 Technologies & Tools
-Backend
+<h2 class='text-red-400'>Backend</h2>
 
 <p >
   <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
